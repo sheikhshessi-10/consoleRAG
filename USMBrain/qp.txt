@@ -1,0 +1,9 @@
+The USM Brain is an intelligent document search and question-answering system that uses advanced natural language processing techniques to provide accurate responses based on document content.
+
+This system combines the power of sentence transformers for semantic understanding, FAISS for efficient similarity search, and OpenAI's GPT models for generating human-like responses.
+
+The application processes documents by chunking them into smaller pieces, creating embeddings for each chunk, and building a searchable index that can quickly retrieve relevant information.
+
+When a user asks a question, the system searches through the document index to find the most relevant chunks, then uses those chunks as context to generate a comprehensive answer.
+
+This approach ensures that responses are grounded in the actual document content while maintaining the conversational quality that users expect from modern AI systems.
