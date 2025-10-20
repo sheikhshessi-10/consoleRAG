@@ -65,6 +65,36 @@ def format_search_results(indices: np.ndarray, distances: np.ndarray, documents:
             results.append((doc_idx, float(distance), documents[doc_idx]))
     return results
 
+def smart_chunk_json_document(doc: str, chunk_size: int = 500, overlap: int = 50) -> List[str]:
+    """Smart chunking for JSON-structured documents, preserving context."""
+    if len(doc) <= chunk_size:
+        return [doc]
+    
+    chunks = []
+    
+    # Split by sections (Title, URL, Content, Headings)
+    sections = doc.split('\n\n')
+    current_chunk = ""
+    
+    for section in sections:
+        # If adding this section would exceed chunk size, save current chunk
+        if len(current_chunk) + len(section) + 2 > chunk_size and current_chunk:
+            chunks.append(current_chunk.strip())
+            # Start new chunk with overlap from previous
+            overlap_text = current_chunk[-overlap:] if overlap > 0 else ""
+            current_chunk = overlap_text + "\n\n" + section
+        else:
+            if current_chunk:
+                current_chunk += "\n\n" + section
+            else:
+                current_chunk = section
+    
+    # Add the last chunk
+    if current_chunk.strip():
+        chunks.append(current_chunk.strip())
+    
+    return [chunk for chunk in chunks if chunk]
+
 def print_search_results(results: List[Tuple[int, float, str]], query: str):
     """Print search results in a formatted way."""
     print(f"\nSearch results for: '{query}'")
