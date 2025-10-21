@@ -1,0 +1,27 @@
+# USM RAG-Anything Configuration
+# Copy this file to .env and fill in your values
+
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_BASE_URL=your_base_url_here  # Optional, leave empty for default
+
+# RAG-Anything Configuration
+RAG_WORKING_DIR=./usm_rag_storage
+OUTPUT_DIR=./output
+
+# Model Configuration
+LLM_MODEL=gpt-4o-mini
+VISION_MODEL=gpt-4o
+EMBEDDING_MODEL=text-embedding-3-large
+
+# Processing Configuration
+ENABLE_IMAGE_PROCESSING=true
+ENABLE_TABLE_PROCESSING=true
+ENABLE_EQUATION_PROCESSING=true
+
+# Data Configuration
+USM_DATA_FILE=qp.txt
+
+# Logging Configuration
+LOG_LEVEL=INFO
+

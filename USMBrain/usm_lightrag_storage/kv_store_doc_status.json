@@ -1,0 +1,1183 @@
+{
+  "doc-6e93385b184253302a6800e9b24ceaf7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6e93385b184253302a6800e9b24ceaf7"
+    ],
+    "content_summary": "Title: The University of Southern Mississippi\n\nURL: https://www.usm.edu/\n\nContent: The University of Southern Mississippi Pause READY FOR LIFE There’s nothing stopping you from doing what you want. Become a leader in your field, change the world, or ...",
+    "content_length": 736,
+    "created_at": "2025-10-20T22:26:16.820666+00:00",
+    "updated_at": "2025-10-20T22:27:04.275192+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_172616_52ed820f",
+    "metadata": {
+      "processing_start_time": 1760999199,
+      "processing_end_time": 1760999224
+    }
+  },
+  "doc-8e14c369d083ecb8324b3f69abf9b725": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6a2e8cb5c037f2a0728589c60fdb098c",
+      "chunk-73be79d6e64cedd6c442742120cc07b8"
+    ],
+    "content_summary": "Title: A to Z Index | The University of Southern Mississippi\n\nURL: https://www.usm.edu/a-to-z-index.php\n\nContent: A to Z Index | The University of Southern Mississippi USM Home/A to Z Index A to Z Index A B C D E F G H I K L M N O P R S T U V W A Sch...",
+    "content_length": 4484,
+    "created_at": "2025-10-20T22:27:04.475013+00:00",
+    "updated_at": "2025-10-20T22:31:35.074319+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_172704_0ba9f88e",
+    "metadata": {
+      "processing_start_time": 1760999224,
+      "processing_end_time": 1760999495
+    }
+  },
+  "doc-ecb617e9177e09e303767dbadb26ac28": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ecb617e9177e09e303767dbadb26ac28"
+    ],
+    "content_summary": "Title: Undergraduate Programs | The University of Southern Mississippi\n\nURL: https://www.usm.edu/academics/\n\nContent: Undergraduate Programs | The University of Southern Mississippi USM Home/Undergraduate Programs Undergraduate Programs Page Content ...",
+    "content_length": 1778,
+    "created_at": "2025-10-20T22:31:35.125613+00:00",
+    "updated_at": "2025-10-20T22:33:48.201567+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173135_326d0fd7",
+    "metadata": {
+      "processing_start_time": 1760999495,
+      "processing_end_time": 1760999628
+    }
+  },
+  "doc-e3f981cf0727b65d803fc4e01e9e6a79": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e3f981cf0727b65d803fc4e01e9e6a79"
+    ],
+    "content_summary": "Title: Admissions | The University of Southern Mississippi\n\nURL: https://www.usm.edu/admissions/\n\nContent: Admissions | The University of Southern Mississippi Undergraduate Admissions Close Learn about the Southern Miss admission process for incoming...",
+    "content_length": 586,
+    "created_at": "2025-10-20T22:33:48.360494+00:00",
+    "updated_at": "2025-10-20T22:34:05.555205+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173348_142d75a5",
+    "metadata": {
+      "processing_start_time": 1760999628,
+      "processing_end_time": 1760999645
+    }
+  },
+  "doc-76363e806d6519c3a7d7c8a6f6e7b003": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-fd9fb767e85db7a1c07d2230c7f12e43",
+      "chunk-ce3591cd07aaba16905291b34b1f002e",
+      "chunk-5463d753babbfef2bdfb26554972a967"
+    ],
+    "content_summary": "Title: Research | University | The University of Southern Mississippi\n\nURL: https://www.usm.edu/research/\n\nContent: Research | University | The University of Southern Mississippi Research USM is a Carnegie R1 research institution and one of the natio...",
+    "content_length": 5540,
+    "created_at": "2025-10-20T22:34:05.620269+00:00",
+    "updated_at": "2025-10-20T22:34:40.016783+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173405_2f9f10ba",
+    "metadata": {
+      "processing_start_time": 1760999645,
+      "processing_end_time": 1760999680
+    }
+  },
+  "doc-42976f060cb753b74846652c6b612d8f": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-57eb4ac2b55063051056ec89d9c3b7e6",
+      "chunk-628e5208493eb7176201e8878393c27e",
+      "chunk-330ad7265521be200162b8575584e9d8"
+    ],
+    "content_summary": "Title: Student Life | The University of Southern Mississippi\n\nURL: https://www.usm.edu/student-life/\n\nContent: Student Life | The University of Southern Mississippi August WE'RE READY FOR YOU! Move-in day is just the beginning! Living on campus means...",
+    "content_length": 4080,
+    "created_at": "2025-10-20T22:34:40.132205+00:00",
+    "updated_at": "2025-10-20T22:35:23.726992+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173440_55b41806",
+    "metadata": {
+      "processing_start_time": 1760999680,
+      "processing_end_time": 1760999723
+    }
+  },
+  "doc-6718cef8d3f53a17ec942c5e82312cba": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6718cef8d3f53a17ec942c5e82312cba"
+    ],
+    "content_summary": "URL: https://www.usm.edu/about-usm/",
+    "content_length": 35,
+    "created_at": "2025-10-20T22:35:23.848278+00:00",
+    "updated_at": "2025-10-20T22:35:31.865398+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173523_f7d66f5b",
+    "metadata": {
+      "processing_start_time": 1760999723,
+      "processing_end_time": 1760999731
+    }
+  },
+  "doc-3d8bc8438a238844f4abd58695ef256e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3d8bc8438a238844f4abd58695ef256e"
+    ],
+    "content_summary": "Title: Southern Miss Now | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/\n\nContent: Southern Miss Now | The University of Southern Mississippi USM Home/News Southern Miss Now 10.07.2025 by Jennifer Rigney Southern Miss Receive...",
+    "content_length": 1836,
+    "created_at": "2025-10-20T22:35:32.099303+00:00",
+    "updated_at": "2025-10-20T22:36:23.809094+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173532_97bd0bce",
+    "metadata": {
+      "processing_start_time": 1760999732,
+      "processing_end_time": 1760999783
+    }
+  },
+  "doc-a0897ad737de3cd63f4204e06df0d864": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a0897ad737de3cd63f4204e06df0d864"
+    ],
+    "content_summary": "URL: https://www.usm.edu/graduate/",
+    "content_length": 34,
+    "created_at": "2025-10-20T22:36:23.949238+00:00",
+    "updated_at": "2025-10-20T22:36:33.831170+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173623_5be9ca6c",
+    "metadata": {
+      "processing_start_time": 1760999783,
+      "processing_end_time": 1760999793
+    }
+  },
+  "doc-4bbef0ba94ee0b74c4d421dfe7a66847": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4bbef0ba94ee0b74c4d421dfe7a66847"
+    ],
+    "content_summary": "URL: https://www.usm.edu/undergraduate/",
+    "content_length": 39,
+    "created_at": "2025-10-20T22:36:33.967571+00:00",
+    "updated_at": "2025-10-20T22:36:41.984171+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173633_cadcf758",
+    "metadata": {
+      "processing_start_time": 1760999793,
+      "processing_end_time": 1760999801
+    }
+  },
+  "doc-6b4bffcbd3d4cb4086dff66e98500623": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6b4bffcbd3d4cb4086dff66e98500623"
+    ],
+    "content_summary": "Title: Office of Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/\n\nContent: Office of Financial Aid | The University of Southern Mississippi Office of Financial Aid Financial Calendars   Spring 2026 Fina...",
+    "content_length": 1427,
+    "created_at": "2025-10-20T22:36:42.083506+00:00",
+    "updated_at": "2025-10-20T22:37:16.482591+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173642_7dfa8a53",
+    "metadata": {
+      "processing_start_time": 1760999802,
+      "processing_end_time": 1760999836
+    }
+  },
+  "doc-3cdffcf04b9a61a40b70b2a50d1f5a7b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3cdffcf04b9a61a40b70b2a50d1f5a7b"
+    ],
+    "content_summary": "Title: Housing and Residence Life | The University of Southern Mississippi\n\nURL: https://www.usm.edu/housing/\n\nContent: Housing and Residence Life | The University of Southern Mississippi Housing and Residence Life Welcome to housing! We're excited t...",
+    "content_length": 1979,
+    "created_at": "2025-10-20T22:37:16.628319+00:00",
+    "updated_at": "2025-10-20T22:37:49.230317+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173716_358e7853",
+    "metadata": {
+      "processing_start_time": 1760999836,
+      "processing_end_time": 1760999869
+    }
+  },
+  "doc-2e5eaf1f2cc6195448be4ad1bf7ebb26": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-01295a08522f6bcfa588d2d1dccb5dc8",
+      "chunk-875b7a05ac03c68004a56a5c97d22ea3",
+      "chunk-604c91ef0f77e3b267950f13f7abed5d"
+    ],
+    "content_summary": "Title: Southern Miss - Official Athletics Website\n\nURL: https://www.usm.edu/athletics/\n\nContent: Southern Miss - Official Athletics Website <\\/noscript> <\\/noscript> Skip to main contentSkip Ad Calendar UpcomingResults Upcoming Events All SportsBaseb...",
+    "content_length": 4013,
+    "created_at": "2025-10-20T22:37:49.371189+00:00",
+    "updated_at": "2025-10-20T22:39:02.925595+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173749_3fda61ea",
+    "metadata": {
+      "processing_start_time": 1760999869,
+      "processing_end_time": 1760999942
+    }
+  },
+  "doc-df03aa33bfc0f81fafca4edd74305d91": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-f8457721e25d5625f15860e301e94890",
+      "chunk-4e61efd94699f93381e8041e844709dc"
+    ],
+    "content_summary": "Title: Arts | The University of Southern Mississippi\n\nURL: https://www.usm.edu/arts/\n\nContent: Arts | The University of Southern Mississippi The Arts USM is one of only 39 institutions in the nation accredited in theatre, art and design, dance and mu...",
+    "content_length": 4205,
+    "created_at": "2025-10-20T22:39:03.101847+00:00",
+    "updated_at": "2025-10-20T22:39:43.591085+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173903_f2bb20a4",
+    "metadata": {
+      "processing_start_time": 1760999943,
+      "processing_end_time": 1760999983
+    }
+  },
+  "doc-5d27f4cd7969e61f2afa178ba4ffad63": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5d27f4cd7969e61f2afa178ba4ffad63"
+    ],
+    "content_summary": "URL: https://www.usm.edu/libraries/",
+    "content_length": 35,
+    "created_at": "2025-10-20T22:39:43.771643+00:00",
+    "updated_at": "2025-10-20T22:39:52.921358+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173943_ccb2441c",
+    "metadata": {
+      "processing_start_time": 1760999983,
+      "processing_end_time": 1760999992
+    }
+  },
+  "doc-0b9509c599d7632321d692bcf9604fc3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0b9509c599d7632321d692bcf9604fc3"
+    ],
+    "content_summary": "URL: https://www.usm.edu/faculty/",
+    "content_length": 33,
+    "created_at": "2025-10-20T22:39:53.120867+00:00",
+    "updated_at": "2025-10-20T22:39:58.976594+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173953_690cd06d",
+    "metadata": {
+      "processing_start_time": 1760999993,
+      "processing_end_time": 1760999998
+    }
+  },
+  "doc-5c71b3d1c006e939eae73707bf2a496f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5c71b3d1c006e939eae73707bf2a496f"
+    ],
+    "content_summary": "URL: https://www.usm.edu/staff/",
+    "content_length": 31,
+    "created_at": "2025-10-20T22:39:59.147885+00:00",
+    "updated_at": "2025-10-20T22:40:05.023885+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_173959_179a2f3a",
+    "metadata": {
+      "processing_start_time": 1760999999,
+      "processing_end_time": 1761000005
+    }
+  },
+  "doc-8c73f6a9e3d709b70bce84fb5a7be59a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8c73f6a9e3d709b70bce84fb5a7be59a"
+    ],
+    "content_summary": "URL: https://www.usm.edu/alumni/",
+    "content_length": 32,
+    "created_at": "2025-10-20T22:40:05.196482+00:00",
+    "updated_at": "2025-10-20T22:40:17.467218+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174005_249c729a",
+    "metadata": {
+      "processing_start_time": 1761000005,
+      "processing_end_time": 1761000017
+    }
+  },
+  "doc-649fbd1d371f49fbb80d4373642747b9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-3fde1320262bf92954fb9c4e8bd766a6",
+      "chunk-0d2ad46b1354736b0a92c23a8f9de61f"
+    ],
+    "content_summary": "Title: College of Education and Human Sciences | The University of Southern Mississippi\n\nURL: https://www.usm.edu/education-human-sciences/\n\nContent: College of Education and Human Sciences | The University of Southern Mississippi College of Educatio...",
+    "content_length": 3896,
+    "created_at": "2025-10-20T22:40:17.647074+00:00",
+    "updated_at": "2025-10-20T22:40:59.177571+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174017_ebff6a7c",
+    "metadata": {
+      "processing_start_time": 1761000017,
+      "processing_end_time": 1761000059
+    }
+  },
+  "doc-dba5e5e4ebf05179bb0f61a229aebf18": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-dba5e5e4ebf05179bb0f61a229aebf18",
+      "chunk-6162b99c309b1a1da09f75002dc2b6f3"
+    ],
+    "content_summary": "Title: Southern Miss Now | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/?tags=Alumni and Friends\n\nContent: Southern Miss Now | The University of Southern Mississippi USM Home/News Southern Miss Now 10.07.2025 by Jennifer Rign...",
+    "content_length": 1862,
+    "created_at": "2025-10-20T22:40:59.362210+00:00",
+    "updated_at": "2025-10-20T22:41:47.180086+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174059_bb4cd9e8",
+    "metadata": {
+      "processing_start_time": 1761000059,
+      "processing_end_time": 1761000107
+    }
+  },
+  "doc-7e484083da7a2440ed69ee89e0d2b40d": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-85ad56266011dacb9990b94eb6c25d5a",
+      "chunk-4740aa57f1bac945914868cac1ae7c78"
+    ],
+    "content_summary": "Title: University Withdrawal and Return of Financial Aid Policies | Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/university-withdrawal-and-return-financial-aid-policies.php\n\nContent: University Withdr...",
+    "content_length": 3351,
+    "created_at": "2025-10-20T22:41:47.476773+00:00",
+    "updated_at": "2025-10-20T22:42:23.899987+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174147_709965e7",
+    "metadata": {
+      "processing_start_time": 1761000107,
+      "processing_end_time": 1761000143
+    }
+  },
+  "doc-8ec10ae371059bb1a1cc159607bc8ec1": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-8ec10ae371059bb1a1cc159607bc8ec1",
+      "chunk-642c9d8f9e1755bddd31a8fa008bc589"
+    ],
+    "content_summary": "Title: Undergraduate Research | The University of Southern Mississippi\n\nURL: https://www.usm.edu/undergraduate-research/\n\nContent: Undergraduate Research | The University of Southern Mississippi Undergraduate Research USM Home/Undergraduate Research ...",
+    "content_length": 2380,
+    "created_at": "2025-10-20T22:42:24.118733+00:00",
+    "updated_at": "2025-10-20T22:43:12.271672+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174224_09339776",
+    "metadata": {
+      "processing_start_time": 1761000144,
+      "processing_end_time": 1761000192
+    }
+  },
+  "doc-74c16b13fe687cba103c7cc4bf50af38": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-74c16b13fe687cba103c7cc4bf50af38"
+    ],
+    "content_summary": "Title: Office of the Provost | The University of Southern Mississippi\n\nURL: https://www.usm.edu/provost/\n\nContent: Office of the Provost | The University of Southern Mississippi Office of the Provost USM Home/Office of the Provost Office of the Provo...",
+    "content_length": 2096,
+    "created_at": "2025-10-20T22:43:12.468591+00:00",
+    "updated_at": "2025-10-20T22:43:38.510955+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174312_72183fd9",
+    "metadata": {
+      "processing_start_time": 1761000192,
+      "processing_end_time": 1761000218
+    }
+  },
+  "doc-ced3f7200aedd1ceaea6fe555dd54404": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-1ef5775dff3860393c3608f3a6f05a0d",
+      "chunk-4ded67966522317fba4372efbce1f010",
+      "chunk-0e21d55f922769eb1a6b4fc6572a98b2",
+      "chunk-7e30a810ef21f8d57d3f475ae254fd5f",
+      "chunk-20f1e219a2fc1f8f45f04e9ae9c636a9",
+      "chunk-273ae64eb85d46ef6b6db48700dee3b4",
+      "chunk-fa351647683178fc863f095788ba5df8",
+      "chunk-03d5e63c76cf2e54c75014406c2e28e5",
+      "chunk-2f594097cc73290607855f8749d8c709",
+      "chunk-715beeef7602535d8a11bb22b2255b08",
+      "chunk-e645a410bdd069e6e651d8ebfb124c14"
+    ],
+    "content_summary": "Title: Frequently Asked Questions | The University of Southern Mississippi\n\nURL: https://www.usm.edu/housing-residence-life/apply/faq.php\n\nContent: Frequently Asked Questions | The University of Southern Mississippi Frequently Asked Questions Below a...",
+    "content_length": 20254,
+    "created_at": "2025-10-20T22:43:38.712655+00:00",
+    "updated_at": "2025-10-20T22:46:14.518150+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174338_1fdc632a",
+    "metadata": {
+      "processing_start_time": 1761000218,
+      "processing_end_time": 1761000374
+    }
+  },
+  "doc-d828b8cac9320d98cabe68c0b55c8276": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-558605d5e8a5276eeb041db8c0983435",
+      "chunk-81e9f8baa6f5484ad93f4dbbe88d7a1d"
+    ],
+    "content_summary": "Title: Chemistry  | Undergraduate Programs | The University of Southern Mississippi\n\nURL: https://www.usm.edu/undergraduate-programs/chemistry.php#Chemistry%20Minor\n\nContent: Chemistry | Undergraduate Programs | The University of Southern Mississippi...",
+    "content_length": 4108,
+    "created_at": "2025-10-20T22:46:14.761260+00:00",
+    "updated_at": "2025-10-20T22:47:02.513882+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174614_cb91ab25",
+    "metadata": {
+      "processing_start_time": 1761000374,
+      "processing_end_time": 1761000422
+    }
+  },
+  "doc-5c8e0b7b5f1d16ea847edd5f3c9709d8": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-4fa426777acd7f76837600cd1347d4eb",
+      "chunk-50ece7f902b60c0f5c0a5dfb7ac8e372",
+      "chunk-1c121948a039765cc65fa529a69dde8d"
+    ],
+    "content_summary": "Title: Southern Miss Cuts Ribbon on Renovated Fresh Food Company, Showcases Bold New Look | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2025/release/the-fresh-food-company.php\n\nContent: Southern Miss Cuts Ribbon on Renovated...",
+    "content_length": 4603,
+    "created_at": "2025-10-20T22:47:02.792252+00:00",
+    "updated_at": "2025-10-20T22:47:50.469786+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174702_66a35318",
+    "metadata": {
+      "processing_start_time": 1761000422,
+      "processing_end_time": 1761000470
+    }
+  },
+  "doc-1e5ba61a87a6efddca5bdced37c9851a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-5d4765aa3330d7e3469feb04faf3773d",
+      "chunk-5a8474d3c420370bf65f99716381996f"
+    ],
+    "content_summary": "Title: School of Speech and Hearing Sciences | The University of Southern Mississippi\n\nURL: https://www.usm.edu/speech-hearing-sciences/\n\nContent: School of Speech and Hearing Sciences | The University of Southern Mississippi School of Speech and Hea...",
+    "content_length": 2981,
+    "created_at": "2025-10-20T22:47:50.766435+00:00",
+    "updated_at": "2025-10-20T22:48:32.863925+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174750_a1f61f1c",
+    "metadata": {
+      "processing_start_time": 1761000470,
+      "processing_end_time": 1761000512
+    }
+  },
+  "doc-f2317087505ca19d57c2e45036a1c580": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-06d21f7bf15708811f288157068ad731",
+      "chunk-c711b70582fd0accaf0915a0dc9d70c5"
+    ],
+    "content_summary": "Title: Gulf Park Event Services | The University of Southern Mississippi\n\nURL: https://www.usm.edu/gulf-park-event-services/\n\nContent: Gulf Park Event Services | The University of Southern Mississippi Gulf Park Event Services USM Home/Gulf Park Event...",
+    "content_length": 3025,
+    "created_at": "2025-10-20T22:48:33.250750+00:00",
+    "updated_at": "2025-10-20T22:49:07.203017+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174833_c033c8dd",
+    "metadata": {
+      "processing_start_time": 1761000513,
+      "processing_end_time": 1761000547
+    }
+  },
+  "doc-fc227d491cb1d83030b692b9a17bee2c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-cdda6efe3c3f3b6b49795937b61aada1",
+      "chunk-8998a7887d74de346a6f8227be8bb407"
+    ],
+    "content_summary": "Title: Center for Faculty Development  | The University of Southern Mississippi\n\nURL: https://www.usm.edu/faculty-development/\n\nContent: Center for Faculty Development | The University of Southern Mississippi Center for Faculty Development Pursuing a...",
+    "content_length": 2602,
+    "created_at": "2025-10-20T22:49:07.538021+00:00",
+    "updated_at": "2025-10-20T22:49:43.611618+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174907_a73b1068",
+    "metadata": {
+      "processing_start_time": 1761000547,
+      "processing_end_time": 1761000583
+    }
+  },
+  "doc-9522a7f6d8ecac5eb453e4af5b26d24e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9522a7f6d8ecac5eb453e4af5b26d24e"
+    ],
+    "content_summary": "Title: DuBard School for Language Disorders | The University of Southern Mississippi\n\nURL: https://www.usm.edu/dubard/\n\nContent: DuBard School for Language Disorders | The University of Southern Mississippi DuBard School for Language Disorders Enroll...",
+    "content_length": 1719,
+    "created_at": "2025-10-20T22:49:43.919818+00:00",
+    "updated_at": "2025-10-20T22:50:09.928586+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_174943_054ba6cc",
+    "metadata": {
+      "processing_start_time": 1761000583,
+      "processing_end_time": 1761000609
+    }
+  },
+  "doc-ec45b15507765cd4e69db63b347428f4": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-826f92c375b42f16637eb92e24ebe753",
+      "chunk-9a6be13ebb75d9fc47049898cff0446a"
+    ],
+    "content_summary": "Title: Construction Management | Undergraduate Programs | The University of Southern Mississippi\n\nURL: https://www.usm.edu/undergraduate-programs/construction-management.php#Construction%20Management%20Minor\n\nContent: Construction Management | Underg...",
+    "content_length": 3932,
+    "created_at": "2025-10-20T22:50:10.195066+00:00",
+    "updated_at": "2025-10-20T22:51:01.665109+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175010_2252809d",
+    "metadata": {
+      "processing_start_time": 1761000610,
+      "processing_end_time": 1761000661
+    }
+  },
+  "doc-bf97b809be9401670d990d24a7584939": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-bf97b809be9401670d990d24a7584939"
+    ],
+    "content_summary": "Title: Board of Directors | Office of the Vice President for Research  | The University of Southern Mississippi\n\nURL: https://www.usm.edu/vice-president-research/board-directors.php\n\nContent: Board of Directors | Office of the Vice President for Rese...",
+    "content_length": 1073,
+    "created_at": "2025-10-20T22:51:01.950955+00:00",
+    "updated_at": "2025-10-20T22:51:36.829041+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175101_8ab946c6",
+    "metadata": {
+      "processing_start_time": 1761000661,
+      "processing_end_time": 1761000696
+    }
+  },
+  "doc-6e6663cb94c54397c28eb45396e946c3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6e6663cb94c54397c28eb45396e946c3"
+    ],
+    "content_summary": "URL: https://www.usm.edu/news/2025/10/11/womens-volleyball-volleyball-defeats-louisiana",
+    "content_length": 87,
+    "created_at": "2025-10-20T22:51:37.094663+00:00",
+    "updated_at": "2025-10-20T22:51:49.832628+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175137_9d741475",
+    "metadata": {
+      "processing_start_time": 1761000697,
+      "processing_end_time": 1761000709
+    }
+  },
+  "doc-0f09cedb2da4dee746acb26a86a9d206": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0f09cedb2da4dee746acb26a86a9d206"
+    ],
+    "content_summary": "Title: Office of Research Support and Development | The University of Southern Mississippi\n\nURL: https://www.usm.edu/research-administration/\n\nContent: Office of Research Support and Development | The University of Southern Mississippi Office of Rese...",
+    "content_length": 2064,
+    "created_at": "2025-10-20T22:51:50.115670+00:00",
+    "updated_at": "2025-10-20T22:52:24.106157+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175150_11923422",
+    "metadata": {
+      "processing_start_time": 1761000710,
+      "processing_end_time": 1761000744
+    }
+  },
+  "doc-e99cc24c8c8fcaa061d8281a3aae31aa": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-e32149ff368ef3a4c65b12b68185bd09",
+      "chunk-76869b99de81dccc16f4d3694db185b1",
+      "chunk-f143ed04273a3900eb731cb7c76f8e98"
+    ],
+    "content_summary": "Title: Compliance and Ethics | The University of Southern Mississippi\n\nURL: https://www.usm.edu/compliance-ethics/\n\nContent: Compliance and Ethics | The University of Southern Mississippi Compliance and Ethics USM Home/Compliance and Ethics Our Missi...",
+    "content_length": 4646,
+    "created_at": "2025-10-20T22:52:24.355526+00:00",
+    "updated_at": "2025-10-20T22:53:08.707109+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175224_3d558eff",
+    "metadata": {
+      "processing_start_time": 1761000744,
+      "processing_end_time": 1761000788
+    }
+  },
+  "doc-fac11509d0892cc1dbcf080a4db10af8": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-7e59e49a4f654ca4e524a7fc78c1b748",
+      "chunk-2f1e49fe574849afc7a093a4b3aad2e3",
+      "chunk-5234628ffe2258d059f61fb0c4e2c978"
+    ],
+    "content_summary": "Title: Social Work Institutes and Centers | The University of Southern Mississippi\n\nURL: https://www.usm.edu/social-work-institutes-centers/\n\nContent: Social Work Institutes and Centers | The University of Southern Mississippi Social Work Institutes ...",
+    "content_length": 4832,
+    "created_at": "2025-10-20T22:53:08.995201+00:00",
+    "updated_at": "2025-10-20T22:53:56.447104+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175308_d7a5046c",
+    "metadata": {
+      "processing_start_time": 1761000788,
+      "processing_end_time": 1761000836
+    }
+  },
+  "doc-08a409fa8712df3761045aa92c35850e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-cc9f97dd70e1646ee3a230a2e6bd4196",
+      "chunk-f9464aebf04c77059e443ed1c905b890"
+    ],
+    "content_summary": "Title: Campus Recreation | The University of Southern Mississippi\n\nURL: https://www.usm.edu/campus-recreation/\n\nContent: Campus Recreation | The University of Southern Mississippi Campus Recreation USM Home/Campus Recreation Campus Recreation The mis...",
+    "content_length": 4022,
+    "created_at": "2025-10-20T22:53:56.735750+00:00",
+    "updated_at": "2025-10-20T22:54:50.765373+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175356_25b1951e",
+    "metadata": {
+      "processing_start_time": 1761000836,
+      "processing_end_time": 1761000890
+    }
+  },
+  "doc-2bdf2784d16c4988a3063c8b98d7934f": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-29c0ed94f97af66620cb0304e087a8ca",
+      "chunk-eff8673b47b477ef00ecdd56b011113c"
+    ],
+    "content_summary": "Title: USM Dance Professor Participates in Global Activism Campaign Against Gender-Based Violence | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2022/release/gender-based-violence-activism-campaign.php\n\nContent: USM Dance Pro...",
+    "content_length": 3470,
+    "created_at": "2025-10-20T22:54:51.067471+00:00",
+    "updated_at": "2025-10-20T22:56:03.477911+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175451_3c0d732a",
+    "metadata": {
+      "processing_start_time": 1761000891,
+      "processing_end_time": 1761000963
+    }
+  },
+  "doc-57301d5c159b860d58a76ccabc3c0c4e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-57301d5c159b860d58a76ccabc3c0c4e"
+    ],
+    "content_summary": "Title: Employment and Human Resources | The University of Southern Mississippi\n\nURL: https://www.usm.edu/employment-human-resources/\n\nContent: Employment and Human Resources | The University of Southern Mississippi Employment and Human Resources Sear...",
+    "content_length": 1214,
+    "created_at": "2025-10-20T22:56:03.847419+00:00",
+    "updated_at": "2025-10-20T22:56:25.674082+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175603_da4dc97e",
+    "metadata": {
+      "processing_start_time": 1761000963,
+      "processing_end_time": 1761000985
+    }
+  },
+  "doc-defd54baa0aebc98d6d0174d3875eac0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-defd54baa0aebc98d6d0174d3875eac0"
+    ],
+    "content_summary": "Title: Student Success | The University of Southern Mississippi\n\nURL: https://www.usm.edu/student-success/\n\nContent: Student Success | The University of Southern Mississippi The Center for Student Success Make an Appointment! USM Home/Student Success...",
+    "content_length": 1057,
+    "created_at": "2025-10-20T22:56:26.484207+00:00",
+    "updated_at": "2025-10-20T22:56:47.008194+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175626_b9f96203",
+    "metadata": {
+      "processing_start_time": 1761000986,
+      "processing_end_time": 1761001007
+    }
+  },
+  "doc-f117f618bb3f0a33f62de3c1d77aaca1": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-f117f618bb3f0a33f62de3c1d77aaca1",
+      "chunk-52bfcb86e9fa9cca3c174aae157857e2"
+    ],
+    "content_summary": "Title: Southern Miss Now | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/?tags=faculty%2Fstaff%20highlights\n\nContent: Southern Miss Now | The University of Southern Mississippi USM Home/News Southern Miss Now 9.30.2025 by Dr. ...",
+    "content_length": 1985,
+    "created_at": "2025-10-20T22:56:47.344308+00:00",
+    "updated_at": "2025-10-20T22:57:42.667001+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175647_973cb7cd",
+    "metadata": {
+      "processing_start_time": 1761001007,
+      "processing_end_time": 1761001062
+    }
+  },
+  "doc-d9de1b8e4fde7603a0282fb0ad45dd53": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-b14e95e76cae7c6f9f3e8f1c442d2714",
+      "chunk-dcbb77421797cebc214bf6a9517e4522",
+      "chunk-e7ac7f06ebb968401c3322aaed2a8c3b"
+    ],
+    "content_summary": "Title: Office of Innovation Management | University of Southern Mississippi\n\nURL: https://oim.usm.edu/\n\nContent: Office of Innovation Management | University of Southern Mississippi Programs: Focusing on Innovationof the future About The Office of In...",
+    "content_length": 6164,
+    "created_at": "2025-10-20T22:57:43.311222+00:00",
+    "updated_at": "2025-10-20T22:58:35.367029+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175743_c274c145",
+    "metadata": {
+      "processing_start_time": 1761001063,
+      "processing_end_time": 1761001115
+    }
+  },
+  "doc-b0ed652fd17fe6968163ae69d09b390e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-39d3ac9d88cc6776ac76b4fca363a459",
+      "chunk-9d6e2f78732809d0c2856304e5b20dc1"
+    ],
+    "content_summary": "Title: Center for Behavioral Health  | The University of Southern Mississippi\n\nURL: https://www.usm.edu/behavioral-health/index.php\n\nContent: Center for Behavioral Health | The University of Southern Mississippi Center for Behavioral Health USM Home/...",
+    "content_length": 3421,
+    "created_at": "2025-10-20T22:58:35.762651+00:00",
+    "updated_at": "2025-10-20T22:59:13.774427+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175835_43a5b240",
+    "metadata": {
+      "processing_start_time": 1761001115,
+      "processing_end_time": 1761001153
+    }
+  },
+  "doc-67284b0ca08222f020d877c4c4526ec6": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-3abb30cb800b8b8bca4472ec2aab5d85",
+      "chunk-f8f0350fee2ee084edde746343266637",
+      "chunk-6c3b5efbef503a5943189d144251707a"
+    ],
+    "content_summary": "Title: Crime Scene Investigation | Undergraduate Programs | The University of Southern Mississippi\n\nURL: https://www.usm.edu/undergraduate-programs/crime-scene-investigation.php#Crime%20Scene%20Investigation%20BS\n\nContent: Crime Scene Investigation |...",
+    "content_length": 5169,
+    "created_at": "2025-10-20T22:59:14.114950+00:00",
+    "updated_at": "2025-10-20T23:00:12.546809+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_175914_525145fc",
+    "metadata": {
+      "processing_start_time": 1761001154,
+      "processing_end_time": 1761001212
+    }
+  },
+  "doc-9a4456e193e1318d70cd114ea51a0607": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9a4456e193e1318d70cd114ea51a0607"
+    ],
+    "content_summary": "URL: https://www.usm.edu/galleries?gallery=3099",
+    "content_length": 47,
+    "created_at": "2025-10-20T23:00:12.905648+00:00",
+    "updated_at": "2025-10-20T23:00:23.059940+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180012_2718ae75",
+    "metadata": {
+      "processing_start_time": 1761001212,
+      "processing_end_time": 1761001223
+    }
+  },
+  "doc-1f7d0a04a189f10017630ad0d8c37084": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1f7d0a04a189f10017630ad0d8c37084"
+    ],
+    "content_summary": "URL: https://www.usm.edu/news/2025/10/12/womens-tennis-heads-to-ita-southern-regionals-in-auburn",
+    "content_length": 96,
+    "created_at": "2025-10-20T23:00:23.426920+00:00",
+    "updated_at": "2025-10-20T23:00:43.784586+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180023_5f8d0bc2",
+    "metadata": {
+      "processing_start_time": 1761001223,
+      "processing_end_time": 1761001243
+    }
+  },
+  "doc-a2da404735f9a7b0966dcce9d1175b29": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-3a0e7d28b468f2ed7c37e1713c11c0ee",
+      "chunk-f2da50c8b0427bcc33a82cb872d42e2f"
+    ],
+    "content_summary": "Title: Office of Sustainability | The University of Southern Mississippi\n\nURL: https://www.usm.edu/sustainability/\n\nContent: Office of Sustainability | The University of Southern Mississippi Office of Sustainability USM Home/Office of Sustainability ...",
+    "content_length": 3299,
+    "created_at": "2025-10-20T23:00:44.156346+00:00",
+    "updated_at": "2025-10-20T23:01:26.329119+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180044_e71d57f9",
+    "metadata": {
+      "processing_start_time": 1761001244,
+      "processing_end_time": 1761001286
+    }
+  },
+  "doc-0ae5cbaa48e6d1c0fe4aabe77a5ff29f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0ae5cbaa48e6d1c0fe4aabe77a5ff29f"
+    ],
+    "content_summary": "URL: https://www.usm.edu/galleries?gallery=3101",
+    "content_length": 47,
+    "created_at": "2025-10-20T23:01:26.682594+00:00",
+    "updated_at": "2025-10-20T23:01:35.891140+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180126_f5de72a2",
+    "metadata": {
+      "processing_start_time": 1761001286,
+      "processing_end_time": 1761001295
+    }
+  },
+  "doc-7275fd8ca749ea9c821181c38a653b2d": {
+    "status": "processed",
+    "chunks_count": 7,
+    "chunks_list": [
+      "chunk-35292936d06ce841d7dec4e70de73be6",
+      "chunk-1873124f57a3b27bb63ee4b263f1f4e3",
+      "chunk-be4ee4020f77ad10471ecacbbf9dc4af",
+      "chunk-483cb174221d39f611ab25b3cd43b1e3",
+      "chunk-a8f5778281c25d4b2da0755d04c3f143",
+      "chunk-e4d5a881dee1ccdba291408958ded9d3",
+      "chunk-f6d2c0e18bff67aadf6ec756e0272282"
+    ],
+    "content_summary": "Title: Office of the Vice President for Research | The University of Southern Mississippi\n\nURL: https://www.usm.edu/vice-president-research/index.php#research-support\n\nContent: Office of the Vice President for Research | The University of Southern Mi...",
+    "content_length": 14238,
+    "created_at": "2025-10-20T23:01:36.260438+00:00",
+    "updated_at": "2025-10-20T23:03:13.052770+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180136_398329a5",
+    "metadata": {
+      "processing_start_time": 1761001296,
+      "processing_end_time": 1761001393
+    }
+  },
+  "doc-eb8e56a8d93bbccfc68ee46382451c35": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-cf8d29b6bcae3939ad0d0c444e9a0bc7",
+      "chunk-ef64dfd307da1fd4356042879dfe152e"
+    ],
+    "content_summary": "Title: Net Price Calculator | Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/net-price-calculator.php\n\nContent: Net Price Calculator | Financial Aid | The University of Southern Mississippi Financial Ai...",
+    "content_length": 3058,
+    "created_at": "2025-10-20T23:03:13.498181+00:00",
+    "updated_at": "2025-10-20T23:03:44.174371+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180313_86000e13",
+    "metadata": {
+      "processing_start_time": 1761001393,
+      "processing_end_time": 1761001424
+    }
+  },
+  "doc-b401d0a6e010a15f43e895672c763850": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-871f2df8f3a89b522f2be6966a88aa25",
+      "chunk-bacce8fada678fe85104151ba7d993d1"
+    ],
+    "content_summary": "Title: USM Anthropology Students Join Community to Preserve Historic Cemetery in Gulfport | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2025/release/anthropology-cemetery-cleanup.php\n\nContent: USM Anthropology Students Join ...",
+    "content_length": 2976,
+    "created_at": "2025-10-20T23:03:44.551512+00:00",
+    "updated_at": "2025-10-20T23:04:22.401596+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180344_dd1c0184",
+    "metadata": {
+      "processing_start_time": 1761001424,
+      "processing_end_time": 1761001462
+    }
+  },
+  "doc-857976eadd3512db3b75f75a06a39101": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-0725eda7520ba148e8b5cd6ffdf121e4",
+      "chunk-5362094aaab6609e668fa633ebd741c7"
+    ],
+    "content_summary": "Title: Office of Equal Employment Opportunity & Labor Regulatory Compliance | The University of Southern Mississippi\n\nURL: https://www.usm.edu/equal-employment/\n\nContent: Office of Equal Employment Opportunity & Labor Regulatory Compliance | The Univ...",
+    "content_length": 3354,
+    "created_at": "2025-10-20T23:04:22.781166+00:00",
+    "updated_at": "2025-10-20T23:04:58.170603+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180422_03df5a55",
+    "metadata": {
+      "processing_start_time": 1761001462,
+      "processing_end_time": 1761001498
+    }
+  },
+  "doc-def66c6771060ee7f3b63a431c3828a6": {
+    "status": "processed",
+    "chunks_count": 6,
+    "chunks_list": [
+      "chunk-209c21fd170644b8ce297ec08749f918",
+      "chunk-76801010f807c7513083b768079a4b59",
+      "chunk-3b8b3e2feb4c1d587800e548a63fd974",
+      "chunk-3e2f5401d1e43331790e48f2f127b63c",
+      "chunk-934b60309251c11bf8754de9c59310f0",
+      "chunk-cb2cfbf974f927ac627483304940ab3c"
+    ],
+    "content_summary": "Title: Osher Lifelong Learning Institute | The University of Southern Mississippi\n\nURL: https://www.usm.edu/lifelong-learning/\n\nContent: Osher Lifelong Learning Institute | The University of Southern Mississippi Osher Lifelong Learning Institute Do y...",
+    "content_length": 9660,
+    "created_at": "2025-10-20T23:04:58.584769+00:00",
+    "updated_at": "2025-10-20T23:07:00.423193+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180458_9e591a39",
+    "metadata": {
+      "processing_start_time": 1761001498,
+      "processing_end_time": 1761001620
+    }
+  },
+  "doc-cf3f557616b37bdb371628db4fdd8134": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cf3f557616b37bdb371628db4fdd8134"
+    ],
+    "content_summary": "Title: Orientation at Hattiesburg | The University of Southern Mississippi\n\nURL: https://www.usm.edu/orientation-transition-programs/\n\nContent: Orientation at Hattiesburg | The University of Southern Mississippi Orientation at Hattiesburg Register fo...",
+    "content_length": 1088,
+    "created_at": "2025-10-20T23:07:00.851713+00:00",
+    "updated_at": "2025-10-20T23:07:15.581994+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180700_9d631967",
+    "metadata": {
+      "processing_start_time": 1761001620,
+      "processing_end_time": 1761001635
+    }
+  },
+  "doc-133004a8e841a342faf94f6b9ebe1f47": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-db5e364e41450442217ae6f3de556aa6",
+      "chunk-d0950f35391a02ceba3842599b27fad9",
+      "chunk-2b8afdf38486993226c28591dfe3f199"
+    ],
+    "content_summary": "Title: Center for Oral History and Cultural Heritage | The University of Southern Mississippi\n\nURL: https://www.usm.edu/oral-history-cultural-heritage/\n\nContent: Center for Oral History and Cultural Heritage | The University of Southern Mississippi C...",
+    "content_length": 4904,
+    "created_at": "2025-10-20T23:07:16.101667+00:00",
+    "updated_at": "2025-10-20T23:08:07.995893+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180716_e1c9f82a",
+    "metadata": {
+      "processing_start_time": 1761001636,
+      "processing_end_time": 1761001687
+    }
+  },
+  "doc-7186cd7e1aaa9713181c77cf0d8f796b": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-81a7d289a72c0d0689c5ce970a311893",
+      "chunk-157f2922a08994ced5247f34ab9ef0ea",
+      "chunk-c8ff75512ca8212c7cdcdd19e790b4f9"
+    ],
+    "content_summary": "Title: Ways To Visit | Undergraduate Admissions | The University of Southern Mississippi\n\nURL: https://www.usm.edu/admissions/experience-southern-miss.php\n\nContent: Ways To Visit | Undergraduate Admissions | The University of Southern Mississippi Way...",
+    "content_length": 6096,
+    "created_at": "2025-10-20T23:08:08.452638+00:00",
+    "updated_at": "2025-10-20T23:08:53.337871+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180808_86ed093f",
+    "metadata": {
+      "processing_start_time": 1761001688,
+      "processing_end_time": 1761001733
+    }
+  },
+  "doc-1850d566b49bb74a68556d7f7ef9480a": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-59c490d6ef6412152347fa3c4e841378",
+      "chunk-d8d1b4a1bd4b228c30a23faba4f22ea2",
+      "chunk-3af327113c58a3366b23d927c0fd12da",
+      "chunk-d335ec0418105e48f70e7d079f5dd0b4",
+      "chunk-a1a3ab66d7d2963b96a782039163fd41"
+    ],
+    "content_summary": "Title: Verification | Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/verification.php\n\nContent: Verification | Financial Aid | The University of Southern Mississippi Financial Aid USM Home/Financial Aid...",
+    "content_length": 8872,
+    "created_at": "2025-10-20T23:08:53.823711+00:00",
+    "updated_at": "2025-10-20T23:10:06.469558+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_180853_9dc3bbc7",
+    "metadata": {
+      "processing_start_time": 1761001733,
+      "processing_end_time": 1761001806
+    }
+  },
+  "doc-9be5b4ac934f87d0d4e4826b69f585fd": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-d908df32c7781feca9630ea0ec0889f2",
+      "chunk-946cff0792cf7dce3c628a25f9ec285f",
+      "chunk-6f5de89e153a5fd3800940dc4dd5ca0d",
+      "chunk-dbd262588bbd3ee5fcc30d9a6bfec66a"
+    ],
+    "content_summary": "Title: FY2025 Marks Momentum in Private Giving at Southern Miss | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2025/release/southern-miss-private-giving.php\n\nContent: FY2025 Marks Momentum in Private Giving at Southern Miss |...",
+    "content_length": 6565,
+    "created_at": "2025-10-20T23:10:06.979419+00:00",
+    "updated_at": "2025-10-20T23:11:09.541291+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_181006_0c2c8788",
+    "metadata": {
+      "processing_start_time": 1761001807,
+      "processing_end_time": 1761001869
+    }
+  },
+  "doc-97cfc80f2239834792347ba4accd4e89": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-cf79edba9e1e1eb654e425bea4977229",
+      "chunk-189446101cc3279404e882d10d52ce5c"
+    ],
+    "content_summary": "Title: University of Southern Mississippi Research Foundation | Office of the Vice President for Research  | The University of Southern Mississippi\n\nURL: https://www.usm.edu/vice-president-research/university-southern-mississippi-research-foundation....",
+    "content_length": 2889,
+    "created_at": "2025-10-20T23:11:10.085343+00:00",
+    "updated_at": "2025-10-20T23:11:43.124435+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_181110_45e0f8e4",
+    "metadata": {
+      "processing_start_time": 1761001870,
+      "processing_end_time": 1761001903
+    }
+  },
+  "doc-ffe848391a4c143502d175135ddd1d98": {
+    "status": "processed",
+    "chunks_count": 10,
+    "chunks_list": [
+      "chunk-cec025b0c6d431d911827b5dd8068088",
+      "chunk-5bcb0e3bfe8c12bf68b5214a3334a877",
+      "chunk-302a453f55daa79e1b9644e680571ca9",
+      "chunk-8c97d516b9276265cfd4265f1e5db061",
+      "chunk-4931399cb58fdb6c8431489cf8b3430c",
+      "chunk-40f9e6013ed8e462c84eb220e7851006",
+      "chunk-0200242438b73b617cbd68a289fe6a1c",
+      "chunk-0001ff19a1c97355c9350e8e42f45915",
+      "chunk-66139fdc97edc4773e25353645a7674e",
+      "chunk-cf6f518e75c43ba4e77b2c680676ed89"
+    ],
+    "content_summary": "Title: Financial Aid Programs Overview | Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/financial-aid-overview.php\n\nContent: Financial Aid Programs Overview | Financial Aid | The University of Southern ...",
+    "content_length": 19902,
+    "created_at": "2025-10-20T23:11:43.664009+00:00",
+    "updated_at": "2025-10-20T23:14:40.810367+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_181143_be7d6ef7",
+    "metadata": {
+      "processing_start_time": 1761001903,
+      "processing_end_time": 1761002080
+    }
+  },
+  "doc-ba5acf85e7dd696362a881a1cfa0ece7": {
+    "status": "failed",
+    "error_msg": "RetryError[<Future at 0x17908dae650 state=finished raised RateLimitError>]",
+    "content_summary": "Title: No Title\n\nURL: https://www.usm.edu/financial-aid/_files/2024moneymatters.pdf\n\nContent: %PDF-1.7 %���� 1 0 obj <>/Metadata 3403 0 R/ViewerPreferences 3404 0 R>> endobj 2 0 obj <> endobj 3 0 obj <>/ExtGState<>/ProcSet[/PDF/Text/ImageB/ImageC/Ima...",
+    "content_length": 5838101,
+    "created_at": "2025-10-20T23:15:03.762046+00:00",
+    "updated_at": "2025-10-21T01:51:37.654756+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_181443_3f794373",
+    "metadata": {
+      "processing_start_time": 1761011468,
+      "processing_end_time": 1761011497
+    },
+    "chunks_list": []
+  },
+  "doc-1bc929ed808aac2279c9981ddc9e911e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-1bc929ed808aac2279c9981ddc9e911e",
+      "chunk-d525e701767838d7ef2f2ab66bf4319b"
+    ],
+    "content_summary": "Title: Application for Spring Financial Assistance | Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/application-spring-financial-assistance.php\n\nContent: Application for Spring Financial Assistance | Fi...",
+    "content_length": 2199,
+    "created_at": "2025-10-20T23:29:40.198815+00:00",
+    "updated_at": "2025-10-20T23:44:06.613624+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_182940_867353c6",
+    "metadata": {
+      "processing_start_time": 1761002985,
+      "processing_end_time": 1761003846
+    }
+  },
+  "doc-70867e108953f67591995b95efcd1e81": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-70867e108953f67591995b95efcd1e81",
+      "chunk-a21fd83617b9752ec85575bba07ba23b"
+    ],
+    "content_summary": "Title: Southern Miss Financial Calendars | Financial Aid | The University of Southern Mississippi\n\nURL: https://www.usm.edu/financial-aid/southern-miss-financial-calendars.php\n\nContent: Southern Miss Financial Calendars | Financial Aid | The Universi...",
+    "content_length": 1860,
+    "created_at": "2025-10-20T23:52:43.169412+00:00",
+    "updated_at": "2025-10-21T00:06:45.922809+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_185243_a4dd9882",
+    "metadata": {
+      "processing_start_time": 1761004367,
+      "processing_end_time": 1761005205
+    }
+  },
+  "doc-a283746a9ddd8ac1c9ce229e5031cb5f": {
+    "status": "processing",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a283746a9ddd8ac1c9ce229e5031cb5f",
+      "chunk-53857127db270e23018611e823e8378c"
+    ],
+    "content_summary": "Title: Southern Miss Now | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/?tags=Coastal USM\n\nContent: Southern Miss Now | The University of Southern Mississippi USM Home/News Southern Miss Now 6.04.2024 by Gabriela Shinskie Nav...",
+    "content_length": 1908,
+    "created_at": "2025-10-21T00:40:47.775368+00:00",
+    "updated_at": "2025-10-21T01:51:08.836616+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_194047_f462b059",
+    "metadata": {
+      "processing_start_time": 1761011468
+    }
+  },
+  "doc-de57cd7d6db6d3b7fa03a2854d6be3cf": {
+    "status": "processing",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-de57cd7d6db6d3b7fa03a2854d6be3cf"
+    ],
+    "content_summary": "URL: https://www.usm.edu/documents/2025/10/10/42440.PDF",
+    "content_length": 55,
+    "created_at": "2025-10-21T01:51:01.438792+00:00",
+    "updated_at": "2025-10-21T01:51:37.659795+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251020_205101_284bf9af",
+    "metadata": {
+      "processing_start_time": 1761011497
+    }
+  }
+}

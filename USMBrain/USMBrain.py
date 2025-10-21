@@ -182,7 +182,10 @@ def get_openai_response(question, context):
     prompt = f"Context:\n{context}\n\nQuestion: {question}\nAnswer:"
     
     try:
-        response = openai.ChatCompletion.create(
+        from openai import OpenAI
+        client = OpenAI(api_key=openai.api_key)
+        
+        response = client.chat.completions.create(
             model=OPENAI_MODEL,
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
@@ -192,7 +195,7 @@ def get_openai_response(question, context):
             temperature=OPENAI_TEMPERATURE
         )
         
-        return response.choices[0].message['content'].strip()
+        return response.choices[0].message.content.strip()
     except Exception as e:
         logger.error(f"OpenAI API error: {e}")
         return f"Error getting response from OpenAI: {e}"
