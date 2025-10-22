@@ -1098,16 +1098,16 @@
   },
   "doc-ba5acf85e7dd696362a881a1cfa0ece7": {
     "status": "failed",
-    "error_msg": "RetryError[<Future at 0x17908dae650 state=finished raised RateLimitError>]",
+    "error_msg": "RetryError[<Future at 0x179167447d0 state=finished raised RateLimitError>]",
     "content_summary": "Title: No Title\n\nURL: https://www.usm.edu/financial-aid/_files/2024moneymatters.pdf\n\nContent: %PDF-1.7 %���� 1 0 obj <>/Metadata 3403 0 R/ViewerPreferences 3404 0 R>> endobj 2 0 obj <> endobj 3 0 obj <>/ExtGState<>/ProcSet[/PDF/Text/ImageB/ImageC/Ima...",
     "content_length": 5838101,
     "created_at": "2025-10-20T23:15:03.762046+00:00",
-    "updated_at": "2025-10-21T01:51:37.654756+00:00",
+    "updated_at": "2025-10-22T17:09:42.489839+00:00",
     "file_path": "usm_website_data.json",
     "track_id": "insert_20251020_181443_3f794373",
     "metadata": {
-      "processing_start_time": 1761011468,
-      "processing_end_time": 1761011497
+      "processing_start_time": 1761152954,
+      "processing_end_time": 1761152982
     },
     "chunks_list": []
   },
@@ -1157,11 +1157,11 @@
     "content_summary": "Title: Southern Miss Now | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/?tags=Coastal USM\n\nContent: Southern Miss Now | The University of Southern Mississippi USM Home/News Southern Miss Now 6.04.2024 by Gabriela Shinskie Nav...",
     "content_length": 1908,
     "created_at": "2025-10-21T00:40:47.775368+00:00",
-    "updated_at": "2025-10-21T01:51:08.836616+00:00",
+    "updated_at": "2025-10-22T17:09:14.944569+00:00",
     "file_path": "usm_website_data.json",
     "track_id": "insert_20251020_194047_f462b059",
     "metadata": {
-      "processing_start_time": 1761011468
+      "processing_start_time": 1761152954
     }
   },
   "doc-de57cd7d6db6d3b7fa03a2854d6be3cf": {
@@ -1173,11 +1173,81 @@
     "content_summary": "URL: https://www.usm.edu/documents/2025/10/10/42440.PDF",
     "content_length": 55,
     "created_at": "2025-10-21T01:51:01.438792+00:00",
-    "updated_at": "2025-10-21T01:51:37.659795+00:00",
+    "updated_at": "2025-10-22T17:09:42.494246+00:00",
     "file_path": "usm_website_data.json",
     "track_id": "insert_20251020_205101_284bf9af",
     "metadata": {
-      "processing_start_time": 1761011497
+      "processing_start_time": 1761152982
     }
+  },
+  "doc-f8bec123d01b5fe20e2eb65174e32168": {
+    "status": "pending",
+    "content_summary": "Title: Susan A. Siltanen Graduate Student Research Symposium | Graduate School | The University of Southern Mississippi\n\nURL: https://www.usm.edu/graduate-school/susan-siltanen-graduate-student-research-symposium.php\n\nContent: Susan A. Siltanen Gradu...",
+    "content_length": 6338,
+    "created_at": "2025-10-21T17:35:05.634049+00:00",
+    "updated_at": "2025-10-22T17:09:10.806680+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251021_123505_4aa4b021",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-6c13b07daaff1f0d30f5598febc73813": {
+    "status": "pending",
+    "content_summary": "Title: Reports | Office of the Vice President for Research  | The University of Southern Mississippi\n\nURL: https://www.usm.edu/vice-president-research/reports.php\n\nContent: Reports | Office of the Vice President for Research | The University of South...",
+    "content_length": 913,
+    "created_at": "2025-10-21T18:34:28.112112+00:00",
+    "updated_at": "2025-10-22T17:09:10.806684+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251021_133428_cd45ec1b",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-9a7e864ba4d0dd19064033aac7c27cd0": {
+    "status": "pending",
+    "content_summary": "Title: USM Alumnus Ed McGowin to Receive Governor’s Arts Award for Lifetime Achievement  | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2022/release/mcgowin-lifetime-achievement.php\n\nContent: USM Alumnus Ed McGowin to Receive...",
+    "content_length": 6303,
+    "created_at": "2025-10-21T19:31:19.043353+00:00",
+    "updated_at": "2025-10-22T17:09:10.806689+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251021_143118_e498b29e",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-6b7cb0f65175ff60cbb4d889cf23c9d2": {
+    "status": "pending",
+    "content_summary": "Title: Southern Miss Launches Graduate Training and Education Center to Advance Cardiovascular Health Research | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2025/release/jackson-heart-study-graduate-training-and-education-ce...",
+    "content_length": 6397,
+    "created_at": "2025-10-21T20:30:18.206790+00:00",
+    "updated_at": "2025-10-22T17:09:10.806693+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251021_153018_18e21c16",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-7dd5efe11226333703485bb75a3c6e7c": {
+    "status": "pending",
+    "content_summary": "Title: New Musical “Rey of Light\" at Southern Miss Honors Legacy of Curious George Creators | The University of Southern Mississippi\n\nURL: https://www.usm.edu/news/2025/release/rey-of-light-musical.php\n\nContent: New Musical “Rey of Light\" at Southern...",
+    "content_length": 7153,
+    "created_at": "2025-10-22T02:25:49.407201+00:00",
+    "updated_at": "2025-10-22T17:09:10.806697+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251021_212549_986b75f1",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-d1d24c1601bf37931df0ba9e594dadef": {
+    "status": "pending",
+    "content_summary": "Title: Communication Studies | Undergraduate Programs | The University of Southern Mississippi\n\nURL: https://www.usm.edu/undergraduate-programs/communication-studies.php#Communication%20Studies%20BS\n\nContent: Communication Studies | Undergraduate Pro...",
+    "content_length": 5144,
+    "created_at": "2025-10-22T17:09:10.729160+00:00",
+    "updated_at": "2025-10-22T17:09:10.729171+00:00",
+    "file_path": "usm_website_data.json",
+    "track_id": "insert_20251022_120910_73b49261",
+    "chunks_list": []
   }
 }
